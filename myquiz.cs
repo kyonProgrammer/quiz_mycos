@@ -6,8 +6,7 @@ namespace MycosQuiz
     {
         static void Main(string[] args)
         {
-            int i; 
-            double a; 
+          Console.WriteLine("Test GIT");
         }
     }
 }

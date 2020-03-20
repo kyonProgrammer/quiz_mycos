@@ -9,6 +9,8 @@ namespace MycosQuiz
           Console.WriteLine("Test GIT");
           int i; 
           int j;
+          string test; 
+          test = "QUIZ: MYCOS";
         }
     }
 }

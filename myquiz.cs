@@ -6,11 +6,13 @@ namespace MycosQuiz
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Test GIT");
-          int i; 
-          int j;
-          string test; 
-          test = "QUIZ: MYCOS";
+          // This script for quiz Mycos Technology providence fund
         }
+    }
+
+    static class SalaryEmployee
+    { 
+        public static int employee = 0;
+        public static string header = "THIS IS QUIZ FOR MYCOS TECH";
     }
 }

@@ -7,6 +7,7 @@ namespace MycosQuiz
         static void Main(string[] args)
         {
           // This script for quiz Mycos Technology providence fund
+          EmployeeData fromData = new EmployeeData();
         }
     }
 

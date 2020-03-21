@@ -22,5 +22,11 @@ namespace MycosQuiz
                 pvd_fund_rate = "";
             }
         }  
+        public class setData
+        {
+            string[] sampledata ;
+            int i = 0;
+            // set data sample to array
+        }
     }
 }
